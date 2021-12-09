@@ -34,7 +34,7 @@
     ```
     yarn create react-app hello-react
     cd hello-react
-    start yarn
+    npm start or yarn start
     ```
 - port : 3000 접수
 
